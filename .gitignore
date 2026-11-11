@@ -40,3 +40,4 @@ run
 bin
 .env*
 !.env.example
+!gradle/wrapper/gradle-wrapper.jar
